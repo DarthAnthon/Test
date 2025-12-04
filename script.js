@@ -1,6 +1,6 @@
 // Счётчик до свадьбы
 function updateCountdown() {
-    const weddingDate = new Date('June 15, 2025 15:00:00').getTime();
+    const weddingDate = new Date('May 16, 2026 12:00:00').getTime();
     const now = new Date().getTime();
     const distance = weddingDate - now;
 
