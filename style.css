@@ -10,7 +10,7 @@ body {
     color: #333;
     background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
                 url('images/back.jpg');
-    background-color: #fffaf0;
+    /*background-color: #fffaf0;*/
 }
 
 .hero {
