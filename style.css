@@ -28,6 +28,7 @@ body {
     padding: 0 20px;
     border-radius: 30px;
     margin: 10vh 0vh;
+    width: 100%;
 }
 
 .hero h1 {
@@ -75,6 +76,7 @@ h2 {
     border-radius: 30px;
     height: 80vh;
     margin: 10vh 0vh;
+    width: 100%;
 }
 
 .slider-container {
@@ -255,6 +257,7 @@ h2 {
     border-radius: 30px;
     height: 80vh;
     margin: 10vh 0vh;
+    width: 100%;
 }
 
 .gallery .photos {
